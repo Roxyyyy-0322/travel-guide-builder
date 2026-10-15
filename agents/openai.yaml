@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行攻略生成器"
+  short_description: "输入城市、日期和偏好，制作交通购票详尽的分享网页或独立排版PDF"
+  default_prompt: "使用 $travel-guide-builder，根据我的目的地、旅行日期和偏好，生成详细旅行网页或PDF。"
